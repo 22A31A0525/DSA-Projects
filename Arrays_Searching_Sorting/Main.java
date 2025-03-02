@@ -142,8 +142,9 @@ class Main {
                     System.out.println("Invalid choice.");
                     break;
             }
-           // sc.close();
+           
         }
+        sc.close();
         
     }
 }
