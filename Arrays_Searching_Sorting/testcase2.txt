@@ -1,0 +1,10 @@
+Andhra Spice, Kakinada, 5, 300, Gongura Chicken
+Andhra Delight, Kakinada, 5, 320, Gongura Chicken
+Spicy Andhra, Kakinada, 5, 350, Mutton Curry
+Kakinada Curry House, Kakinada, 4, 250, Fish Curry
+Curry Corner, Kakinada, 4, 280, Fish Curry
+Coastal Flavors, Kakinada, 4, 200, Prawn Masala
+Bay Area Bites, Kakinada, 4, 220, Tomato Pappu
+Heritage Andhra, Kakinada, 3, 180, Veg Biryani
+Tiffin Treat, Kakinada, 3, 150, Pootharekulu
+Sea Breeze Andhra, Kakinada, 5, 400, Prawn Curry

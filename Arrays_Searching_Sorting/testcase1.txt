@@ -1,0 +1,100 @@
+Spice Junction, Mumbai, 5, 350, Butter Chicken
+Curry Castle, Delhi, 4, 300, Paneer Butter Masala
+Taste of India, Kolkata, 5, 400, Fish Curry
+Royal Rasoi, Jaipur, 4, 250, Dal Makhani
+South Spice, Chennai, 3, 200, Chettinad Chicken
+Andhra Aromas, Hyderabad, 5, 320, Gongura Chicken
+Bengal Bites, Kolkata, 4, 280, Mishti Doi
+Deccan Diner, Pune, 5, 350, Mutton Curry
+Urban Tadka, Bangalore, 3, 180, Paneer Tikka
+Heritage Haveli, Delhi, 4, 320, Kebabs
+Maharaja Meals, Jaipur, 5, 450, Rajasthani Thali
+Nizam’s Kitchen, Hyderabad, 4, 300, Biryani
+Coastline Cafe, Mumbai, 3, 220, Prawn Curry
+Spice Route, Chennai, 4, 280, Mutton Chops
+Taste of Tradition, Lucknow, 5, 400, Lucknawi Biryani
+Punjabi Dhaba, Amritsar, 4, 250, Amritsari Kulcha
+Royal Dine, Delhi, 5, 500, Tandoori Chicken
+Keralite Kitchen, Kochi, 3, 200, Kerala Fish Curry
+Gujarati Rasoi, Ahmedabad, 4, 180, Dhokla
+Rajasthani Rasa, Udaipur, 5, 380, Laal Maas
+City Flavors, Mumbai, 4, 310, Pav Bhaji
+Urban Eats, Bangalore, 3, 210, Masala Dosa
+Spicy Saffron, Delhi, 5, 450, Butter Chicken
+Lotus Lounge, Chennai, 4, 290, Idli Vada
+Heritage House, Kolkata, 3, 230, Macher Jhol
+Regal Rasoi, Jaipur, 4, 300, Gatte ki Sabzi
+Deccan Delights, Hyderabad, 5, 360, Hyderabadi Biryani
+Fusion Feast, Pune, 3, 200, Paneer Lababdar
+Coastal Catch, Mumbai, 4, 340, Crab Curry
+Garden Gourmet, Bangalore, 5, 400, Veg Biryani
+Royal Spice, Delhi, 3, 210, Chicken Tikka
+South Sundown, Chennai, 4, 280, Dosa Set
+Bengal Brunch, Kolkata, 5, 370, Fish Fry
+Rajasthani Regal, Jaipur, 4, 310, Ker Sangri
+Nizam's Feast, Hyderabad, 5, 420, Haleem
+Savory Street, Pune, 3, 190, Misal Pav
+Urban Utsav, Bangalore, 4, 260, Chole Bhature
+Capital Cuisine, Delhi, 5, 480, Rogan Josh
+Spice Symphony, Mumbai, 4, 330, Dal Fry
+South Serai, Chennai, 3, 220, Uttapam
+Heritage Hut, Kolkata, 4, 290, Chingri Malai Curry
+Regal Rasoi, Jaipur, 5, 400, Laal Maas
+Royal Rasa, Hyderabad, 3, 250, Chicken Biryani
+Savoury Junction, Ahmedabad, 4, 280, Khandvi
+Flavors of India, Mumbai, 5, 360, Paneer Tikka
+Spice Bazaar, Delhi, 4, 300, Seekh Kebabs
+Southern Charm, Chennai, 3, 210, Chettinad Fish
+Deccan Dynasty, Hyderabad, 5, 410, Mutton Biryani
+The Tiffin Stop, Pune, 4, 230, Misal Pav
+Bangalore Bites, Bangalore, 3, 190, Masala Dosa
+Capital Spice, Delhi, 5, 420, Butter Chicken
+Coastal Curry, Mumbai, 4, 310, Prawn Masala
+Heritage Kitchen, Kolkata, 3, 240, Kosha Mangsho
+Royal Dhamaka, Jaipur, 5, 390, Dal Baati Churma
+Nizam's Nosh, Hyderabad, 4, 320, Biryani
+Urban Delight, Pune, 3, 210, Paneer Lababdar
+City Tadka, Bangalore, 4, 260, Sambar Vada
+Delhi Dhaba, Delhi, 5, 450, Tandoori Roti
+Spice Street, Mumbai, 4, 340, Sabudana Khichdi
+South Spice, Chennai, 3, 220, Chicken Chettinad
+Bengali Bliss, Kolkata, 4, 290, Shorshe Ilish
+Jaipur Junction, Jaipur, 5, 410, Rajasthani Thali
+Nizam's Feast, Hyderabad, 4, 330, Biryani
+Pune Palate, Pune, 3, 200, Vada Pav
+Bangalore Bistro, Bangalore, 5, 380, Bisi Bele Bath
+Capital Cravings, Delhi, 4, 300, Chole Kulche
+Mumbai Magic, Mumbai, 5, 420, Pav Bhaji
+Chennai Chaat, Chennai, 3, 210, Dosa and Vada
+Kolkata Kurry, Kolkata, 4, 310, Fish Curry
+Jaipur Rasoi, Jaipur, 5, 400, Laal Maas
+Hyderabad House, Hyderabad, 5, 350, Mutton Biryani
+Pune Plates, Pune, 3, 220, Misal Pav
+Bangalore Biryani, Bangalore, 5, 390, Chicken Biryani
+Delhi Delicacies, Delhi, 4, 320, Dal Makhani
+Mumbai Masala, Mumbai, 5, 450, Butter Chicken
+Chennai Chettinad, Chennai, 3, 200, Chettinad Mutton
+Kolkata Kati, Kolkata, 4, 280, Kathi Roll
+Jaipur Jashn, Jaipur, 5, 430, Rajasthani Thali
+Hyderabad Harmony, Hyderabad, 4, 360, Chicken Biryani
+Pune Paratha, Pune, 3, 210, Aloo Paratha
+Bangalore Bhavan, Bangalore, 5, 400, Bisi Bele Bath
+Delhi Dhamaka, Delhi, 4, 310, Kebabs
+Mumbai Munch, Mumbai, 5, 420, Paneer Tikka
+Chennai Charm, Chennai, 3, 230, Idli Sambar
+Kolkata Karma, Kolkata, 4, 310, Prawn Curry
+Jaipur Rasoi, Jaipur, 5, 410, Dal Baati Churma
+Hyderabad Hub, Hyderabad, 4, 340, Biryani
+Pune Piquant, Pune, 3, 200, Misal Pav
+Bangalore Bliss, Bangalore, 5, 380, Chicken Biryani
+Delhi Delight, Delhi, 4, 300, Chole Bhature
+Mumbai Marvel, Mumbai, 5, 450, Fish Curry
+Chennai Central, Chennai, 3, 220, Dosa
+Kolkata Kurry, Kolkata, 4, 290, Macher Jhol
+Jaipur Junction, Jaipur, 5, 400, Laal Maas
+Hyderabad Hues, Hyderabad, 4, 350, Mutton Biryani
+Pune Pride, Pune, 3, 210, Vada Pav
+Bangalore Buzz, Bangalore, 5, 390, Bisi Bele Bath
+Delhi Diner, Delhi, 4, 320, Paneer Butter Masala
+Mumbai Masala, Mumbai, 5, 420, Butter Chicken
+Chennai Chutney, Chennai, 3, 230, Idli Vada
