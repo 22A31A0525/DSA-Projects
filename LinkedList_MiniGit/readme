@@ -1,0 +1,114 @@
+Mini Git Version Control System
+A simple version control system implemented using Java and doubly linked lists. This project allows users to manage commits, branches, and perform operations like reverting commits, deleting commits, and switching between branches. It is a great demonstration of applying linked lists for version control management.
+
+Features
+Commit Changes: Record changes with a commit message and file content.
+
+View Commit History: Display the commit history of the current branch.
+
+Revert to a Commit: Revert the repository state to a previous commit.
+
+Delete a Commit: Delete a specific commit by its ID.
+
+Checkout the Latest Commit: Reset the working directory to the most recent commit.
+
+Create a New Branch: Create a new branch from the current commit history.
+
+Switch Between Branches: Switch between existing branches.
+
+View Full Branch Details: View commit history for all branches in the repository.
+
+Installation
+Prerequisites
+Java 8 or higher installed on your machine.
+
+A Java IDE or command line terminal for running the program.
+
+Steps to run the project:
+Clone the repository to your local machine.
+
+bash
+Copy
+Edit
+git clone <repository_url>
+Navigate to the project directory.
+
+bash
+Copy
+Edit
+cd MiniGit
+Compile and run the MiniGit.java file.
+
+If you're using the command line, you can use:
+
+bash
+Copy
+Edit
+javac MiniGit.java
+java MiniGit
+The application will now run in the console, where you can interact with it via the options presented in the menu.
+
+Usage
+Menu Options
+Commit a Change: Commit changes to the current branch with a commit message and file content.
+
+View Commit History: View the list of commits for the current branch, showing commit ID, message, timestamp, and file content.
+
+Revert to Commit: Revert your project to a previous commit by its ID.
+
+Delete a Commit: Delete a specific commit by providing its ID.
+
+Checkout Latest Commit: Move to the latest commit on the current branch.
+
+Create a New Branch: Create a new branch from the current branch's commit.
+
+Switch to a Branch: Switch between existing branches.
+
+Full Details About Each Branch: View the commit history for all branches in the repository.
+
+Exit: Exit the application.
+
+Example Workflow
+Create a new branch:
+
+bash
+Copy
+Edit
+Create a New Branch
+Enter new branch name: feature
+Switch to the new branch:
+
+bash
+Copy
+Edit
+Switch to a Branch
+Enter branch name to switch to: feature
+Commit changes to the new branch:
+
+bash
+Copy
+Edit
+Commit a Change
+Enter commit message: Added a new feature
+Enter file content: public static void main(String[] args) { System.out.println("Hello, World!"); }
+View commit history:
+
+bash
+Copy
+Edit
+View Commit History
+Revert to a previous commit:
+
+bash
+Copy
+Edit
+Revert to Commit
+Enter commit ID to revert to: 1
+How It Works
+CommitNode: Represents each commit in the project. Each commit has a unique ID, a message, a timestamp, and the file content.
+
+Branch: Represents a branch in the repository. Each branch contains a linked list of commits.
+
+VersionControlSystem: Handles operations like committing changes, switching branches, deleting commits, etc.
+
+MiniGit: The entry point for interacting with the system. The user can choose from various options in the menu to perform version control actions.
