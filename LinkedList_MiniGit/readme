@@ -18,36 +18,6 @@ Switch Between Branches: Switch between existing branches.
 
 View Full Branch Details: View commit history for all branches in the repository.
 
-Installation
-Prerequisites
-Java 8 or higher installed on your machine.
-
-A Java IDE or command line terminal for running the program.
-
-Steps to run the project:
-Clone the repository to your local machine.
-
-bash
-Copy
-Edit
-git clone <repository_url>
-Navigate to the project directory.
-
-bash
-Copy
-Edit
-cd MiniGit
-Compile and run the MiniGit.java file.
-
-If you're using the command line, you can use:
-
-bash
-Copy
-Edit
-javac MiniGit.java
-java MiniGit
-The application will now run in the console, where you can interact with it via the options presented in the menu.
-
 Usage
 Menu Options
 Commit a Change: Commit changes to the current branch with a commit message and file content.
