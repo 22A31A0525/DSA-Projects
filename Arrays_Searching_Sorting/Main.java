@@ -1,11 +1,9 @@
-
+import java.util.*;
 import implementation.BinarySearch;
 import implementation.Resturant;
 import implementation.Sort;
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.util.ArrayList;
-import java.util.Scanner;
 
 class Main {
 
