@@ -1,3 +1,4 @@
+#Linkedlist-project
 Mini Git Version Control System
 A simple version control system implemented using Java and doubly linked lists. This project allows users to manage commits, branches, and perform operations like reverting commits, deleting commits, and switching between branches. It is a great demonstration of applying linked lists for version control management.
 
