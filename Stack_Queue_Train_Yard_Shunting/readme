@@ -1,0 +1,74 @@
+# 🚆 Train Yard Shunting Optimizer
+
+A real-world inspired project that simulates and optimizes the shunting process in a busy train yard using **Stacks** and **Queues**.
+
+## 📘 Project Overview
+
+In a train yard, carriages arrive in a specific order and need to be reorganized into new trains bound for different destinations. This project models the shunting yard and develops an algorithm to:
+- Minimize the number of moves
+- Use shunting tracks (sidings) efficiently
+- Assemble outgoing trains in a specific required order
+
+## 💡 Problem Statement
+
+Given:
+- A queue representing an incoming train with carriages in a fixed order
+- A limited number of shunting tracks (represented as stacks)
+- Multiple outgoing trains that require carriages in specific sequences
+
+The system must:
+- Decide which carriage goes where (stack/queue)
+- Reorder and assemble the outgoing trains correctly
+- Minimize shunting operations
+
+## 🔧 Data Structures Used
+
+- **Incoming Train**: `Queue` (FIFO)
+- **Shunting Tracks**: `Stack` (LIFO)
+- **Outgoing Trains**: `Queue` (FIFO)
+- **Optional**: Priority Queue or Greedy logic for optimization
+
+## 🚧 Constraints
+
+- Limited number of shunting stacks
+- Capacity limit on each shunting track
+- Strict order requirement for outgoing trains
+- Optimize for minimum carriage movements
+
+## 🧠 Features
+
+- Efficient shunting algorithm
+- Multiple outgoing train support
+- User-defined train yard configuration
+- Visual representation of train movements (optional GUI)
+- Real-time move counter and state display
+
+## 📷 Optional GUI (Planned)
+
+The project optionally includes a simple GUI:
+- Visualize incoming trains, stacks, and outgoing trains
+- See real-time animations of carriage movements
+- Input yard layout and carriage order through the interface
+
+## 📥 User Input
+
+The user can define:
+- Incoming train carriages (e.g., `[A, B, C, D, E]`)
+- Outgoing train orders (e.g., `[B, D, A]`)
+- Number of shunting tracks and their capacity
+
+## 📈 Optimization Goals
+
+- Select the best stack to place each incoming carriage
+- Schedule pops from stacks to form outgoing trains efficiently
+- Use minimum number of temporary moves
+- Avoid unnecessary back-and-forth operations
+
+## 🧪 Example Scenario
+
+```text
+Incoming Train: A → B → C → D → E
+Outgoing Train: C → B → A → D → E
+Stacks: 2 shunting tracks with capacity 3
+
+Goal: Achieve the outgoing order with minimal moves and stack use.
